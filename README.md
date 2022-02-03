@@ -16,7 +16,9 @@ In order to view each lesson's notebook, you could view directly here or execute
 pip install notebook
 pip install numpy
 pip install scipy
+pip install pandas
 pip install matplotlib
+pip install seaborn
 ```
 
 ## Authors
