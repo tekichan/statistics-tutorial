@@ -8,7 +8,8 @@ This is a Statistics Tutorial via Python and Jupyter notebook. This tutorial mak
 - [Lesson 2: Quartiles and Percentiles](lesson02.ipynb)
 - [Lesson 3: Standard Deviation and Variance](lesson03.ipynb)
 - [Lesson 4: Covariance and Correlation Coefficient](lesson04.ipynb)
-- [Lesson 5: Simple Linear Regression](lesson05.ipynb)
+- [Lesson 5: Linear Regression](lesson05.ipynb)
+- [Lesson 6: Probability Distribution](lesson06.ipynb)
 
 Each lesson introduces a concept of statistics. In addition to built-in libraries and common libraries such as Pandas and NumPy, it shows a plain python code to illustrate the underlying logic.
 
